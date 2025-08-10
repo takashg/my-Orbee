@@ -83,8 +83,8 @@
         QWERTY {
             bindings = <
 &kp Q               &kp W             &kp E    &kp R           &kp T                                    &kp Y        &kp U            &lt 1 I    &kp O         &kp P
-&mt LEFT_CONTROL A  &mt LEFT_SHIFT S  &lt 4 D  &mt LEFT_ALT F  &kp G        &none        &kp C_VOL_UP   &kp H        &mt RIGHT_ALT J  &lt 4 K    &mt RSHIFT L  &mt RIGHT_CONTROL MINUS
-&mt ESCAPE Z        &kp X             &kp C    &kp V           &kp B        &none        &kp C_VOL_DN   &kp N        &kp M            &kp COMMA  &kp DOT       &kp LEFT_WIN
+&mt LEFT_CONTROL A  &mt LEFT_SHIFT S  &lt 4 D  &mt LEFT_ALT F  &kp G        &none        &none          &kp H        &mt RIGHT_ALT J  &lt 4 K    &mt RSHIFT L  &mt RIGHT_CONTROL MINUS
+&mt ESCAPE Z        &kp X             &kp C    &kp V           &kp B        &none        &none          &kp N        &kp M            &kp COMMA  &kp DOT       &kp LEFT_WIN
 &none               &none             &none    &lt 1 CAPSLOCK  &lt 2 SPACE  &lt 3 TAB    &kp BACKSPACE  &lt 5 ENTER                                            &none
             >;
 
