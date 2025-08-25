@@ -126,7 +126,7 @@
             sensor-bindings = <&scroll_up_down>;
         };
 
-        MOUSE_BLUETOOTH {
+        MOUSE {
             bindings = <
 &none             &none          &kp C_MUTE  &none         &none                     &none   &kp C_VOL_DN  &kp C_MUTE  &kp C_VOL_UP  &none
 &kp LEFT_CONTROL  &kp C_VOL_DN   &none       &kp C_VOL_UP  &none   &trans    &trans  &none   &mkp MB1      &none       &mkp MB2      &kp RIGHT_CONTROL
